@@ -1,2 +1,2 @@
-# jupyter-notebooks-intro
-Introduction to Jupyter notebooks
+# Introduction to Jupyter Notebooks
+A first look at Jupyter Notebooks, why they are useful and how to use them.
