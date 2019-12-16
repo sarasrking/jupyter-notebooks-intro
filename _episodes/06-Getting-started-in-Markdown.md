@@ -1,14 +1,14 @@
 ---
-Title: "Getting started in Markdown"
-Teaching: 15
-Exercises: 1
-Question:
+title: "Getting started in Markdown"
+teaching: 15
+exercises: 1
+questions:
 - What is Markdown and what is it for?
-Objectives:
+objectives:
 - Open a notebook then use Markdown to create formatted text
-Activity:
+activity:
  - With a group, play with basic Markdown formatting.
-Keypoints:
+keypoints:
  - Get started, be fearless!
 ---
 
