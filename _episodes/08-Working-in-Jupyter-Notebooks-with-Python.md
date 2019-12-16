@@ -1,7 +1,7 @@
 ---
 title: "Working in Jupyter Notebooks with Python"
-teaching: 45
-exercises: 4
+teaching: 30
+exercises: 15
 questions:
 - How do I get started in Python?
 objectives:
