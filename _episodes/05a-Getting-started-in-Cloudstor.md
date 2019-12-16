@@ -1,11 +1,11 @@
 ---
-Title: "Getting started in Cloudstor"
-Teaching: 10
-Question:
+title: "Getting started in Cloudstor"
+teaching: 10
+question:
 - How do you open a Jupyter Notebook in CloudStor?
-Objectives:
+objectives:
 - Open a notebook then use markdown to create formatted text
-Keypoints:
+keypoints:
  - You're on your way!
 ---
 ## Getting started in CloudStor
