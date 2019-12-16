@@ -1,14 +1,14 @@
 ---
-Title: "Using data in CloudStor"
-Teaching: 5
-Exercises: 1
-Question:
+title: "Using data in CloudStor"
+teaching: 5
+exercises: 1
+questions:
 - How do you work in Jupyter Notebooks with data stored in CloudStor?
-Objectives:
+objectives:
 - Access a dataset stored in Cloudstor using Jupyter Notebooks
-Activity:
+activity:
  - Use 'pandas' to read data
-Keypoints:
+keypoints:
  - This is where the fun begins!
 ---
 
