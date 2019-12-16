@@ -1,13 +1,15 @@
 ---
 title: "Introduction to Jupyter Notebooks"
-teaching: 30
-exercises: 1
+teaching: 10
+exercises: 20
 questions:
 - "What are notebooks?"
+- "What do all these words mean?"
 objectives:
 - "Understand what notebooks are."
+- "Talk about terminology."
 activity:
- - "Talk about terminology."
+ - "Bust some jargon!"
 keypoints:
  - "Notebooks are useful! Don't be put off by the techie talk :)"
 ---
