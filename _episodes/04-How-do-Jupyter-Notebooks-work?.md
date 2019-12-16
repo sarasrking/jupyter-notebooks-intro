@@ -1,14 +1,14 @@
 ---
-Title: "How do Jupyter Notebooks work?"
-Teaching: 30
-Exercises: 1
-Question:
+title: "How do Jupyter Notebooks work?"
+teaching: 30
+exercises: 1
+question:
 - How do Jupyter Notebooks work?
-Objectives:
+objectives:
 - Understand how notebooks run and how they are different to the command line
-Activity:
+activity:
  - Look at an example on GitHub
-Keypoints:
+keypoints:
  - You don't need anything special to run a notebook - just a browser will do!
 ---
 
