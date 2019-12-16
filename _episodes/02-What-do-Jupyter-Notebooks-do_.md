@@ -1,14 +1,14 @@
 ---
-Title: "What do Jupyter Notebooks do?"
-Teaching: 30
-Exercises: 1
-Question:
+title: "What do Jupyter Notebooks do?"
+teaching: 30
+exercises: 1
+questions:
 - What can notebooks do?
-Objectives:
-- Understand what notebooks are capable of
-Activity:
+objectives:
+- Understand what you can do with notebooks.
+activity:
  - How could you see a notebook being useful to you?
-Keypoints:
+keypoints:
  - Notebooks might not be for you! But if they are, they could accelerate your research and be a good friend in a time of need. Or just improve a few processes to make life less tedious. :)
 ---
 
@@ -20,7 +20,7 @@ Jupyter Notebooks offer a hybrid environment in which you can perform computatio
 
 >“The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.”
 
-–description from [Project Jupyter](https://jupyter.org/)
+– description from [Project Jupyter](https://jupyter.org/)
 
 #### [Data cleaning](https://en.wikipedia.org/wiki/Data_cleansing)
 
