@@ -1,14 +1,14 @@
 ---
-Title: "Why use Jupyter Notebooks"
-Teaching: 30
-Exercises: 1
-Question:
+title: "Why use Jupyter Notebooks"
+teaching: 30
+exercises: 1
+question:
 - Why use Jupyter Notebooks?
-Objectives:
+objectives:
 - Understand why notebooks are used and who uses them
-Activity:
+activity:
  - Talk about a variety of applications
-Keypoints:
+keypoints:
  - Notebooks are used by all kinds of people, for lots of different reasons
 ---
 
