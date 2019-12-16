@@ -1,6 +1,7 @@
 ---
 title: "Getting started in Cloudstor"
 teaching: 10
+activity: 10
 questions:
 - How do you open a Jupyter Notebook in CloudStor?
 objectives:
