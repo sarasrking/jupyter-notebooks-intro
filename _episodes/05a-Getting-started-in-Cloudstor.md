@@ -1,7 +1,7 @@
 ---
 title: "Getting started in Cloudstor"
 teaching: 10
-question:
+questions:
 - How do you open a Jupyter Notebook in CloudStor?
 objectives:
 - Open a notebook then use markdown to create formatted text
@@ -14,7 +14,7 @@ Follow these step-by-step instructions to get started with Jupyter Notebooks in 
 
 ### LOG IN TO CLOUDSTOR
 
-1. Open AARNet website: https://www.aarnet.edu.au/
+1. Go to the AARNet website: https://www.aarnet.edu.au/
 2. Click on 'Log In and Tools' in the top righthand corner of the page.
 3. Select 'CloudStor'.
 4. Choose your organisation and click on 'Login at AARNet'.
@@ -33,7 +33,7 @@ You are now in CloudStor, which is a cloud storage environment.
 
 If you don't have access to CloudStor, follow these instructions:
     
-Open up MyBinder: https://mybinder.org/
+Open up [MyBinder](https://mybinder.org/)
 
 Paste GitHub Repo: https://github.com/ingridbmason/Intro-to-Jupyter/
 
