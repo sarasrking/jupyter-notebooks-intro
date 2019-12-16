@@ -1,7 +1,7 @@
 ---
 title: "How do Jupyter Notebooks work?"
-teaching: 30
-exercises: 1
+teaching: 10
+exercises: 20
 questions:
 - How do Jupyter Notebooks work?
 objectives:
