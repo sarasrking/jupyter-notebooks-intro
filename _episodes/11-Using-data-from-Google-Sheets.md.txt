@@ -1,14 +1,14 @@
 ---
-Title: "Using data from Google Sheets"
-Teaching: 5
-Exercises: 1
-Question:
+title: "Using data from Google Sheets"
+teaching: 5
+exercises: 1
+question:
 - How do you work in Jupyter Notebooks with data from Google Sheets?
-Objectives:
+objectives:
 - Access a Google Sheets dataset using Jupyter Notebooks
-Activity:
+activity:
  - Use 'pandas' to read data
-Keypoints:
+keypoints:
  - This is where the fun begins!
 ---
 
