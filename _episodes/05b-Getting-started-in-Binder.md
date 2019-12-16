@@ -1,11 +1,11 @@
 ---
-Title: "Getting started in Binder"
-Teaching: 10
-Question:
+title: "Getting started in Binder"
+teaching: 10
+question:
 - How do you open a Notebook in Binder?
-Objectives:
+objectives:
 - Open a Notebook then create a new one.
-Keypoints:
+keypoints:
  - You're on your way!
 ---
 ## Getting started
