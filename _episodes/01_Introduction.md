@@ -43,17 +43,16 @@ In pairs, talk about the language used in the introductions. Are you familiar wi
 
 Add your definitions to some of the terms we'll be using in today's workshop Etherpad, and remember to keep adding them as we go. This will be a useful resource for us all later!
 
-Computational notebook 
-Literate programming
-Code
-Rich text
-Open-source
-Computational output
-Documentation
-Code
-Cell
-Kernel
-Markdown
-Command line
-Vector
-Array 
+ - Computational notebook 
+ - Literate programming
+ - Code
+ - Rich text
+ - Open-source
+ - Computational output
+ - Documentation
+ - Cell
+ - Kernel
+ - Markdown
+ - Command line
+ - Vector
+ - Array 
