@@ -1,15 +1,15 @@
 ---
-Title: "Working in Jupyter Notebooks with R"
-Teaching: 45
-Exercises: 2
-Question:
+title: "Working in Jupyter Notebooks with R"
+teaching: 45
+exercises: 2
+question:
 - How do I get started in R?
-Objectives:
+objectives:
 - Use some basic commands in R
-Activity:
+activity:
  - Create a sequence, use the sum command, then create a vector and a matrix
  - Understand the difference between a matrix and a dataframe, create and add to a dataframe
-Keypoints:
+keypoints:
  - Coding is all about little steps. Let's start at the beginning!
 ---
 
