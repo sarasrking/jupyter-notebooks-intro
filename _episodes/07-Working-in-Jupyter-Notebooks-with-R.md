@@ -1,8 +1,8 @@
 ---
 title: "Working in Jupyter Notebooks with R"
-teaching: 45
-exercises: 2
-question:
+teaching: 25
+exercises: 20
+questions:
 - How do I get started in R?
 objectives:
 - Use some basic commands in R
