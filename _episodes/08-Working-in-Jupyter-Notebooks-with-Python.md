@@ -1,15 +1,15 @@
 ---
-Title: "Working in Jupyter Notebooks with Python"
-Teaching: 45
-Exercises: 4
-Question:
+title: "Working in Jupyter Notebooks with Python"
+teaching: 45
+exercises: 4
+questions:
 - How do I get started in Python?
-Objectives:
+objectives:
 - Use some basic commands in P
-Activity:
+activity:
  - Create a sequence, assign a value, use the sum and print commands
  - Create a list and a dictionary
-Keypoints:
+keypoints:
  - Coding is all about little steps. Let's start at the beginning!
 ---
 
