@@ -2,7 +2,7 @@
 title: "Introduction to Jupyter Notebooks"
 teaching: 15
 exercises: 1
-question:
+questions:
 - "What are notebooks?"
 objectives:
 - "Understand what notebooks are."
