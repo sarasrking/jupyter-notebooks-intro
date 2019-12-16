@@ -1,9 +1,9 @@
 ---
-title: "Why use Jupyter Notebooks"
+title: "Why use Jupyter Notebooks?"
 teaching: 30
 exercises: 1
-question:
-- Why use Jupyter Notebooks?
+questions:
+- What are Jupyter Notebooks used for?
 objectives:
 - Understand why notebooks are used and who uses them
 activity:
@@ -41,5 +41,5 @@ Notebooks are being used in an ever-increasing number of domains, by a large ran
 More humanities researchers are adopting Jupyter Notebooks as part of their research practice. Take a look at the following and discuss how Jupyter Notebooks might be useful in different fields:
 
 - [Programming Historian](https://programminghistorian.org/)
-- [Wragge](https://github.com/wragge)
+- [GLAM Workbench](https://glam-workbench.github.io/)
 - [Digital Humanities Laboratory](https://github.com/dhlab-epfl?language=jupyter+notebook)
