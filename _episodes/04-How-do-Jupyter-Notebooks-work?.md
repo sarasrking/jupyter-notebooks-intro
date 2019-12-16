@@ -2,7 +2,7 @@
 title: "How do Jupyter Notebooks work?"
 teaching: 30
 exercises: 1
-question:
+questions:
 - How do Jupyter Notebooks work?
 objectives:
 - Understand how notebooks run and how they are different to the command line
