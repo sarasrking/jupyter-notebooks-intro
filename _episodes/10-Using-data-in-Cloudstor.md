@@ -1,7 +1,7 @@
 ---
 title: "Using data in CloudStor"
 teaching: 5
-exercises: 1
+exercises: 5
 questions:
 - How do you work in Jupyter Notebooks with data stored in CloudStor?
 objectives:
