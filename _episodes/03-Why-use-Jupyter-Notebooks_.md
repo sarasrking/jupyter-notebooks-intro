@@ -1,7 +1,7 @@
 ---
 title: "Why use Jupyter Notebooks?"
-teaching: 10
-exercises: 10
+teaching: 5
+exercises: 5
 questions:
 - What are Jupyter Notebooks used for?
 objectives:
