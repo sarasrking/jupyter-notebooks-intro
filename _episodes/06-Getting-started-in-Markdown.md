@@ -1,7 +1,7 @@
 ---
 title: "Getting started in Markdown"
-teaching: 15
-exercises: 5
+teaching: 0
+exercises: 10
 questions:
 - What is Markdown and what is it for?
 objectives:
