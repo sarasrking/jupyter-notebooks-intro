@@ -1,7 +1,7 @@
 ---
 title: "Getting started in Binder"
-teaching: 10
-activity: 10
+teaching: 0
+activity: 5
 questions:
 - How do you open a Notebook in Binder?
 objectives:
