@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Jupyter Notebooks"
-teaching: 10
-exercises: 20
+teaching: 5
+exercises: 10
 questions:
 - "What are notebooks?"
 - "What do all these words mean?"
