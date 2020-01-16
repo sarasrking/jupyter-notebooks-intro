@@ -1,7 +1,7 @@
 ---
 title: "What do Jupyter Notebooks do?"
-teaching: 20
-exercises: 10
+teaching: 5
+exercises: 5
 questions:
 - What can notebooks do?
 objectives:
