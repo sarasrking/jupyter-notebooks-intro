@@ -38,7 +38,7 @@ You are now in CloudStor, which is a cloud storage environment.
 3. You will notice here that you can see 'Starting your session' come up on the screen. This means that a notebook is being created. This can take a minute or so as SWAN creates a computing environment for you in the cloud.
 4. When the next screen comes up you will see a menu for files on the right hand side and a launcher on the left.
 
-![SWAN_launcher](\Introduction_to_Jupyter_notebooks\images\SWAN_launcher.png)
+![SWAN launcher]({{ site.baseurl }}/images/SWAN_launcher.png)
 
 5. Underneath the heading 'Notebook' you will see a list of programming languages. Click on 'R'. Your untitled notebook will open in place of the launcher.
 6. Select 'File' at the top left hand side of the screen and select 'Save Notebook As'. Name your notebook 'Intro to Jupyter Notebooks', ensuring to keep the **.ipynb** file extension in the name, eg 'Intro to Jupyter Notebooks.ipynb'.
