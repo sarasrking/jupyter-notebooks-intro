@@ -166,7 +166,7 @@ This set of commands has now created a list of dictionary items as values. The '
 In your 'code' cell, write the following series of commands:
 
 ~~~
-for k,v in d.items():
+for k, v in d.items():
     print(k, v)
 ~~~
 {: .language-python}
