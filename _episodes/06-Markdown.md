@@ -54,7 +54,7 @@ Now let's add a subheading. This time you use two hashes (##) before the words i
 
 
 
-Click on 'Run' - the button with the triangle next to a vertical line (it looks  like a 'play' icon), or use the shortcut **Shift+Enter** to execute the cell. You now have a subheading.
+Click on 'Run' - the button with the triangle next to a vertical line (it looks  like a 'play' icon), or use the shortcut <kbd>Shift</kbd>+<kbd>Enter</kbd> to execute the cell. You now have a subheading.
 
 ### Body text
 
