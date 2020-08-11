@@ -65,4 +65,5 @@ Jupyter Notebooks are saved as a JSON (JavaScript Object Notation) file with an 
 > - A notebook runs and stores the code and output, with Markdown notes
 > - A notebook is an editable document with input and output cells
 {: .callout}
+
 {% include links.md %}
