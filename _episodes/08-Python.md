@@ -180,7 +180,7 @@ In this case we are showing the keys (k) and values (v) in the dictionary called
 In your 'code' cell, write the following series of commands:
 
 ~~~
-for k,v in e.items():
+for k, v in e.items():
     print(k, v)
 ~~~
 {: .language-python}
