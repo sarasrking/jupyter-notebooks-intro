@@ -33,7 +33,7 @@ You are now in CloudStor, which is a cloud storage environment.
 1. At the top of the page there is a black banner that shows several icons. Double-click on the swan.
 2. From the 'Welcome to SWAN' (Service for Web-based Analysis) pop-up, click on 'Start My Notebook Session'.
 
-![Welcome_to_SWAN](\Introduction_to_Jupyter_notebooks\images\Welcome_to_SWAN.png)
+![Welcome to SWAN]({{ site.baseurl }}/images/Welcome_to_SWAN.png)
 
 3. You will notice here that you can see 'Starting your session' come up on the screen. This means that a notebook is being created. This can take a minute or so as SWAN creates a computing environment for you in the cloud.
 4. When the next screen comes up you will see a menu for files on the right hand side and a launcher on the left.
