@@ -21,7 +21,7 @@ Follow these step-by-step instructions to get started with Jupyter Notebooks in 
 2. Click on 'Log In and Tools' in the top righthand corner of the page.
 ![CloudStor login and tools]({{ site.baseurl }}/images/CloudStor_login_and_tools.png)
 3. Select 'CloudStor'.
-![CloudStor](\Introduction_to_Jupyter_notebooks\images\CloudStor.png)
+![CloudStor]({{ site.baseurl }}/images/CloudStor.png)
 4. Choose your organisation from the list
 ![CloudStor_login](\Introduction_to_Jupyter_notebooks\images\CloudStor_login.png)
 5. Sign in with your institutional user name and password - and click 'Login'(Yay! No new password needed!).
