@@ -133,9 +133,9 @@ Curly braces are used in Python to define a dictionary. A dictionary is a data s
 In your 'code' cell, write the following series of commands:
 
 ~~~
-d = {'employee': 'Juanita Lopez','salary':81000, 'startdate': '2010-11-1'}
-e = {'employee': 'Peter Gynn','salary':83400, 'startdate': '2008-3-25'}
-f = {'employee': 'Jolie Talofa','salary':96800, 'startdate': '2007-3-14'}
+d = {'employee': 'Juanita Lopez', 'salary': 81000, 'startdate': '2010-11-1'}
+e = {'employee': 'Peter Gynn', 'salary': 83400, 'startdate': '2008-3-25'}
+f = {'employee': 'Jolie Talofa', 'salary': 96800, 'startdate': '2007-3-14'}
 print(d)
 print(e)
 print(f)
