@@ -17,7 +17,7 @@ Follow these step-by-step instructions to get started with Jupyter Notebooks in 
 
 ### Log in to CloudStor
 
-1. Go to the AARNet website: [https://www.aarnet.edu.au/](https://www.aarnet.edu.au/)
+1. Go to the [AARNet website](https://www.aarnet.edu.au/)
 2. Click on 'Log In and Tools' in the top righthand corner of the page.
 ![CloudStor login and tools]({{ site.baseurl }}/images/CloudStor_login_and_tools.png)
 3. Select 'CloudStor'.
