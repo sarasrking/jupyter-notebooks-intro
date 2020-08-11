@@ -19,7 +19,7 @@ Follow these step-by-step instructions to get started with Jupyter Notebooks in 
 
 1. Go to the AARNet website: [https://www.aarnet.edu.au/](https://www.aarnet.edu.au/)
 2. Click on 'Log In and Tools' in the top righthand corner of the page.
-![CloudStor_login_and_tools](\Introduction_to_Jupyter_notebooks\images\CloudStor_login_and_tools.png)
+![CloudStor login and tools]({{ site.baseurl }}/images/CloudStor_login_and_tools.png)
 3. Select 'CloudStor'.
 ![CloudStor](\Introduction_to_Jupyter_notebooks\images\CloudStor.png)
 4. Choose your organisation from the list
