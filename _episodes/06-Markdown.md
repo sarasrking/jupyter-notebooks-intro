@@ -38,7 +38,7 @@ Let's start with a heading. To create a heading in Markdown you use a hash (#) a
 
 into the cell, making sure you have selected 'Markdown' from the dropdown menu above where it shows 'Code' as the default.
 
-![Select_Markdown](\Introduction_to_Jupyter_notebooks\images\Select_Markdown.png)
+![Select_Markdown]({{ site.baseurl }}/images/Select_Markdown.png)
 
 Already here you can see how notebooks are flexible, as you can choose what kind of cell you are writing in (and toggle it at any time!)
 
