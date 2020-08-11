@@ -187,7 +187,7 @@ for k, v in e.items():
 
 - Click on 'Run' or use the shortcut **Shift+Enter** to execute the cell.
 
-In this case we are showing the keys and values in the dictionary called 'd'.
+In this case we are showing the keys and values in the dictionary called `d`.
 
 **Remember**: Curly braces create dictionaries or sets. Square brackets create lists.
 
