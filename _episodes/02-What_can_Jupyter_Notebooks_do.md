@@ -46,7 +46,7 @@ A statistical model can be thought of as a statistical assumption (or set of sta
 
 One of the really powerful attributes of Jupyter Notebooks is that of visualisation. In notebooks you can create graphs, tables, plots, heatmaps, charts, mathematical equations and so on. These tools are very helpful for exploration as well as demonstration.
 
-![Visualisations](\Introduction_to_Jupyter_notebooks\images\Jupyter_visualisations.png)
+![Visualisations]({{ site.baseurl }}/images/Jupyter_visualisations.png)
 
 Image credit: [iPython.org](https://ipython.org/)
 
