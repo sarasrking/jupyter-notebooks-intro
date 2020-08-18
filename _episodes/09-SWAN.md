@@ -23,11 +23,11 @@ The work area allows you to open many notebook files and terminals in tabs and/o
 When you open SWAN you are taken to the default location for your notebooks which is called a 'scratch' folder.
 
 The file system in SWAN is a little different to your CloudStor folder.
-We recommend you use  the SWAN home folder (`/scratch`) as the default space to work in rather than your CloudStor  folder (`/scratch/cloudstor`). In SWAN you will see a sub-folder called `cloudstor` which connects to your CloudStor data.
+We recommend you use  the SWAN home folder `/scratch` as the default space to work in rather than your CloudStor  folder `/scratch/cloudstor`. In SWAN you will see a sub-folder called `cloudstor` which connects to your CloudStor data.
 
-Data in your SWAN home folder (`/scratch`) is routinely syncronised in your CloudStor account in a folder called “SWAN_SESSIONS”.
+Data in your SWAN home folder `/scratch` is routinely syncronised in your CloudStor account in a folder called “SWAN_SESSIONS”.
 
-However, work outside of the home folder (`/scratch`) will not be backed up to CloudStor `SWAN_SESSIONS`. To mitigate the risk of losing this data we recommend that after completion, you save your work to the `cloudstor` folder in SWAN.
+However, work outside of the home folder `/scratch` will not be backed up to CloudStor `SWAN_SESSIONS`. To mitigate the risk of losing this data we recommend that after completion, you save your work to the `cloudstor` folder in SWAN.
 
 > ## Activity - Find your scratch and CloudStor folders
 >
