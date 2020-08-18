@@ -20,7 +20,7 @@ rather than taking up memory on your own desktop or laptop. This means you can r
 
 Once you have a running session, you can check at any time which Notebook files are
  active by clicking on the 'Running Terminals and Kernels' icon
-  ![icon]({{ site.baseurl }}/images/running.svg) icon on the left-hand side of the
+  ![icon]({{ site.baseurl }}/images/running.svg)  on the left-hand side of the
    interface.
 
 ![Running session]({{ site.baseurl }}/images/Shutdown.png)
