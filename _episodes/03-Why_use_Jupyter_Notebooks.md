@@ -69,8 +69,7 @@ Notebooks are being used in an ever-increasing number of domains, by a large ran
 > - [Geography - Three reasons to use Jupyter Notebooks as a GIS user](https://www.esri.com/arcgis-blog/products/analytics/analytics/three-reasons-to-use-jupyter-notebooks-as-a-gis-user/)
 > - [Jupyter Notebooks on various topics](https://ramiro.org/notebooks/)
 >
-> 2.What else can you find? Share any examples you know about or search online for your discipline
- + Jupyter Notebooks.
+> 2.What else can you find? Share any examples you know about or search online for "_your discipline_  + Jupyter Notebooks".
 {: .challenge}
 
 {% include links.md %}
